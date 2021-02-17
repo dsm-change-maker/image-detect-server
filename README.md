@@ -1,4 +1,4 @@
-# image-detect-server
+# image-detect-server with darknet
 
 A simple server that returns whether or not there are people in the image.
 
